@@ -6,4 +6,5 @@ Fifth Line of code.
 Sixth Line of code
 Seventh Line of code
 
-New Feature added
+New Feature added.
+Second Feature.
