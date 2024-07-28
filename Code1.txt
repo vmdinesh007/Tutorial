@@ -5,9 +5,3 @@ Fourth Line of Code.
 Fifth Line of code.
 Sixth Line of code
 Seventh Line of code
-
-New Feature added.
-Second Feature.
-
-Branch 1 changes.
-Second changes on newFeature Branch
