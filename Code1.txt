@@ -10,3 +10,4 @@ New Feature added.
 Second Feature.
 
 Branch 1 changes.
+Second changes on newFeature Branch
